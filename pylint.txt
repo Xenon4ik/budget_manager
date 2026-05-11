@@ -1,0 +1,14 @@
+************* Module app.models
+app/models.py:119:0: C0304: Final newline missing (missing-final-newline)
+************* Module app.database
+app/database.py:27:0: C0304: Final newline missing (missing-final-newline)
+************* Module app.security
+app/security.py:47:0: C0304: Final newline missing (missing-final-newline)
+************* Module app.schemas
+app/schemas.py:150:0: C0304: Final newline missing (missing-final-newline)
+************* Module app.dependencies
+app/dependencies.py:48:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.73/10 (previous run: 9.73/10, +0.00)
+
