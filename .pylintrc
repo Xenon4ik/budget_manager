@@ -1,0 +1,28 @@
+[MASTER]
+ignore=tests
+
+[MESSAGES CONTROL]
+disable=
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    too-few-public-methods,
+    duplicate-code,
+    import-error,
+    no-name-in-module,
+    too-many-arguments,
+    too-many-positional-arguments,
+    redefined-outer-name
+
+[FORMAT]
+max-line-length=100
+
+[DESIGN]
+max-args=8
+max-locals=20
+max-returns=8
+max-branches=15
+max-statements=60
+
+[TYPECHECK]
+ignored-modules=jose,passlib
